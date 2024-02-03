@@ -1,2 +1,10 @@
 # AdvancedExcel_Project
 This project is completed using Microsoft Excel.
+SUM,AVERAGE,IF
+SUM,SUMIFS
+COUNTIF
+VLOOKUP,XLOOKUP
+PIVOT TABLE
+PIVOT CHARTS
+FILTERS, SLICERS
+DASHBOARD
