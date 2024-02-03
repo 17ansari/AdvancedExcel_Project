@@ -1,4 +1,4 @@
-# AdvancedExcel_Project
+# DataAnalysis_Excel
 This project is completed using Microsoft Excel.
 SUM,AVERAGE,IF
 SUM,SUMIFS
